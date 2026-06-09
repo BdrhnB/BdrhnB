@@ -48,6 +48,11 @@
 
 ## 0x2 GitHub Stats
 
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BdrhnB&theme=github-dark-blue&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853" alt="GitHub Streak"/>
+
+</div>
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BdrhnB&show_icons=true&theme=github_dark&hide_border=true&title_color=00C853&icon_color=00C853" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BdrhnB&layout=compact&theme=github_dark&hide_border=true&title_color=00C853" />
@@ -75,16 +80,6 @@
 
 <!-- Stats Kartı -->
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=BdrhnB&show_icons=true&theme=github_dark&hide_border=true&title_color=00C853&icon_color=00C853&text_color=FFFFFF&bg_color=0D1117&count_private=true" alt="GitHub Stats"/>
-
-<!-- En Çok Kullanılan Diller -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BdrhnB&layout=compact&theme=github_dark&hide_border=true&title_color=00C853&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BdrhnB&theme=github-dark-blue&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853" alt="GitHub Streak"/>
 
 </div>
 
