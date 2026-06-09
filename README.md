@@ -53,16 +53,9 @@
 
 </div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BdrhnB&show_icons=true&theme=github_dark&hide_border=true&title_color=00C853&icon_color=00C853" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BdrhnB&layout=compact&theme=github_dark&hide_border=true&title_color=00C853" />
-</p>
-
 ---
 
 ## 0x3 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bdrhn)<div align="center">
 
 <img align="right" src="https://komarev.com/ghpvc/?username=BdrhnB&style=flat-square&color=00C853&label=visitors" alt="Profile Views"/>
 
