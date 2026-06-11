@@ -4,6 +4,7 @@
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C853&size=22&center=true&vCenter=true&width=600&lines=Computer+Engineer;Security+Researcher+%F0%9F%94%90;eJPT+Candidate;CTF+Player" alt="Typing SVG" />
   </a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=BdrhnB&style=flat-square&color=00C853&label=visitors" alt="Profile Views"/>
 </p>
 
 ---
@@ -56,12 +57,6 @@
 ---
 
 ## 0x3 Contact
-
-<img align="right" src="https://komarev.com/ghpvc/?username=BdrhnB&style=flat-square&color=00C853&label=visitors" alt="Profile Views"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=whoami+%3E+Computer+Engineer;Security+Researcher+%F0%9F%94%90;eJPT+Candidate;CTF+Player+%7C+Hack+The+Box;Learn+by+breaking+things." alt="Typing Animation" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bdrhn)
 
