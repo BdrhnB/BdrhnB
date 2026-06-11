@@ -67,15 +67,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<!-- Stats Kartı -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BdrhnB&show_icons=true&theme=github_dark&hide_border=true&title_color=00C853&icon_color=00C853&text_color=FFFFFF&bg_color=0D1117&count_private=true" alt="GitHub Stats"/>
-
-</div>
-
 <div align="center">
 
 ```
