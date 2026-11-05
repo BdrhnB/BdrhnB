@@ -12,7 +12,7 @@
 ## 0x0 About me
 
 - Computer Engineering graduate, focusing on offensive security
-- Preparing for **eJPT** certification
+- **eJPT** certification
 - Practicing on HackTheBox & TryHackMe
 - I like to understand *why* things break, not just *how*
 
