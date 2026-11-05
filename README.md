@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C853&size=22&center=true&vCenter=true&width=600&lines=Computer+Engineer;Security+Researcher+%F0%9F%94%90;eJPT+Candidate;CTF+Player" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C853&size=22&center=true&vCenter=true&width=600&lines=Computer+Engineer;Security+Researcher+%F0%9F%94%90;eJPT;CTF+Player" alt="Typing SVG" />
   </a>
   <img align="right" src="https://komarev.com/ghpvc/?username=BdrhnB&style=flat-square&color=00C853&label=visitors" alt="Profile Views"/>
 </p>
